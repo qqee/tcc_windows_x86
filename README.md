@@ -33,7 +33,7 @@ So I had to patch and compile it. Enjoy~ :notes:
 
 -------------------------------------------------------------
 
-qq@qq.ee
+admin@qq.ee
 
 
 
